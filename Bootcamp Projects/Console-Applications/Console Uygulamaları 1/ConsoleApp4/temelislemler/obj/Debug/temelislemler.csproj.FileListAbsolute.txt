@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\ConsoleApp4\temelislemler\bin\Debug\temelislemler.exe.config
+C:\Users\Hp\source\repos\ConsoleApp4\temelislemler\bin\Debug\temelislemler.exe
+C:\Users\Hp\source\repos\ConsoleApp4\temelislemler\bin\Debug\temelislemler.pdb
+C:\Users\Hp\source\repos\ConsoleApp4\temelislemler\obj\Debug\temelislemler.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\ConsoleApp4\temelislemler\obj\Debug\temelislemler.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\ConsoleApp4\temelislemler\obj\Debug\temelislemler.exe
+C:\Users\Hp\source\repos\ConsoleApp4\temelislemler\obj\Debug\temelislemler.pdb

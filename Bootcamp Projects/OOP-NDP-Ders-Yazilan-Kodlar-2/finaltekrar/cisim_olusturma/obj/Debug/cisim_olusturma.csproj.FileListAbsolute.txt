@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\finaltekrar\cisim_olusturma\bin\Debug\cisim_olusturma.exe.config
+C:\Users\Hp\source\repos\finaltekrar\cisim_olusturma\bin\Debug\cisim_olusturma.exe
+C:\Users\Hp\source\repos\finaltekrar\cisim_olusturma\bin\Debug\cisim_olusturma.pdb
+C:\Users\Hp\source\repos\finaltekrar\cisim_olusturma\obj\Debug\cisim_olusturma.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\finaltekrar\cisim_olusturma\obj\Debug\cisim_olusturma.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\finaltekrar\cisim_olusturma\obj\Debug\cisim_olusturma.exe
+C:\Users\Hp\source\repos\finaltekrar\cisim_olusturma\obj\Debug\cisim_olusturma.pdb

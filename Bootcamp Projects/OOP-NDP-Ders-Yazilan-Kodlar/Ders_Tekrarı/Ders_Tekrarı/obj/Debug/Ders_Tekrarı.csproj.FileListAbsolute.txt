@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\Ders_Tekrarı\Ders_Tekrarı\bin\Debug\Ders_Tekrarı.exe.config
+C:\Users\Hp\source\repos\Ders_Tekrarı\Ders_Tekrarı\bin\Debug\Ders_Tekrarı.exe
+C:\Users\Hp\source\repos\Ders_Tekrarı\Ders_Tekrarı\bin\Debug\Ders_Tekrarı.pdb
+C:\Users\Hp\source\repos\Ders_Tekrarı\Ders_Tekrarı\obj\Debug\Ders_Tekrarı.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\Ders_Tekrarı\Ders_Tekrarı\obj\Debug\Ders_Tekrarı.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Ders_Tekrarı\Ders_Tekrarı\obj\Debug\Ders_Tekrarı.exe
+C:\Users\Hp\source\repos\Ders_Tekrarı\Ders_Tekrarı\obj\Debug\Ders_Tekrarı.pdb

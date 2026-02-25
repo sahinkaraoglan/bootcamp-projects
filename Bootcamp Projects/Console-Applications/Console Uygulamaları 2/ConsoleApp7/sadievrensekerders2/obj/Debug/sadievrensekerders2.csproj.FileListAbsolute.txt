@@ -1,0 +1,6 @@
+C:\Users\Hp\source\repos\ConsoleApp7\sadievrensekerders2\bin\Debug\sadievrensekerders2.exe.config
+C:\Users\Hp\source\repos\ConsoleApp7\sadievrensekerders2\bin\Debug\sadievrensekerders2.exe
+C:\Users\Hp\source\repos\ConsoleApp7\sadievrensekerders2\bin\Debug\sadievrensekerders2.pdb
+C:\Users\Hp\source\repos\ConsoleApp7\sadievrensekerders2\obj\Debug\sadievrensekerders2.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\ConsoleApp7\sadievrensekerders2\obj\Debug\sadievrensekerders2.exe
+C:\Users\Hp\source\repos\ConsoleApp7\sadievrensekerders2\obj\Debug\sadievrensekerders2.pdb

@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\finaltekrar\finaltekrar\bin\Debug\finaltekrar.exe.config
+C:\Users\Hp\source\repos\finaltekrar\finaltekrar\bin\Debug\finaltekrar.exe
+C:\Users\Hp\source\repos\finaltekrar\finaltekrar\bin\Debug\finaltekrar.pdb
+C:\Users\Hp\source\repos\finaltekrar\finaltekrar\obj\Debug\finaltekrar.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\finaltekrar\finaltekrar\obj\Debug\finaltekrar.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\finaltekrar\finaltekrar\obj\Debug\finaltekrar.exe
+C:\Users\Hp\source\repos\finaltekrar\finaltekrar\obj\Debug\finaltekrar.pdb

@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\NDP3.HAFTA\refandout\bin\Debug\refandout.exe.config
+C:\Users\Hp\source\repos\NDP3.HAFTA\refandout\bin\Debug\refandout.exe
+C:\Users\Hp\source\repos\NDP3.HAFTA\refandout\bin\Debug\refandout.pdb
+C:\Users\Hp\source\repos\NDP3.HAFTA\refandout\obj\Debug\refandout.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\NDP3.HAFTA\refandout\obj\Debug\refandout.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\NDP3.HAFTA\refandout\obj\Debug\refandout.exe
+C:\Users\Hp\source\repos\NDP3.HAFTA\refandout\obj\Debug\refandout.pdb

@@ -1,0 +1,5 @@
+C:\Users\Hp\source\repos\algoritma_odev\algoritma_odev\obj\Debug\net5.0\algoritma_odev.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\algoritma_odev\algoritma_odev\obj\Debug\net5.0\algoritma_odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\algoritma_odev\algoritma_odev\obj\Debug\net5.0\algoritma_odev.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\algoritma_odev\algoritma_odev\obj\Debug\net5.0\algoritma_odev.AssemblyInfo.cs
+C:\Users\Hp\source\repos\algoritma_odev\algoritma_odev\obj\Debug\net5.0\algoritma_odev.csproj.CoreCompileInputs.cache

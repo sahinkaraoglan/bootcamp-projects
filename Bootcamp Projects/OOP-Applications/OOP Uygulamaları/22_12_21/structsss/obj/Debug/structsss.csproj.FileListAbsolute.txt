@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\22_12_21\structsss\bin\Debug\structsss.exe.config
+C:\Users\Hp\source\repos\22_12_21\structsss\bin\Debug\structsss.exe
+C:\Users\Hp\source\repos\22_12_21\structsss\bin\Debug\structsss.pdb
+C:\Users\Hp\source\repos\22_12_21\structsss\obj\Debug\structsss.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\22_12_21\structsss\obj\Debug\structsss.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\22_12_21\structsss\obj\Debug\structsss.exe
+C:\Users\Hp\source\repos\22_12_21\structsss\obj\Debug\structsss.pdb

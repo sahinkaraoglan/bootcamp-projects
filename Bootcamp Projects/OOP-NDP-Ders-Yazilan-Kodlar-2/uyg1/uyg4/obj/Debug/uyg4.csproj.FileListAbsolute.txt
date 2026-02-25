@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\uyg1\uyg4\bin\Debug\uyg4.exe.config
+C:\Users\Hp\source\repos\uyg1\uyg4\bin\Debug\uyg4.exe
+C:\Users\Hp\source\repos\uyg1\uyg4\bin\Debug\uyg4.pdb
+C:\Users\Hp\source\repos\uyg1\uyg4\obj\Debug\uyg4.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\uyg1\uyg4\obj\Debug\uyg4.Form1.resources
+C:\Users\Hp\source\repos\uyg1\uyg4\obj\Debug\uyg4.Properties.Resources.resources
+C:\Users\Hp\source\repos\uyg1\uyg4\obj\Debug\uyg4.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\uyg1\uyg4\obj\Debug\uyg4.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\uyg1\uyg4\obj\Debug\uyg4.exe
+C:\Users\Hp\source\repos\uyg1\uyg4\obj\Debug\uyg4.pdb

@@ -1,0 +1,6 @@
+C:\Users\Hp\source\repos\SinavHazirlik\uyg4\bin\Debug\uyg4.exe.config
+C:\Users\Hp\source\repos\SinavHazirlik\uyg4\bin\Debug\uyg4.exe
+C:\Users\Hp\source\repos\SinavHazirlik\uyg4\bin\Debug\uyg4.pdb
+C:\Users\Hp\source\repos\SinavHazirlik\uyg4\obj\Debug\uyg4.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\SinavHazirlik\uyg4\obj\Debug\uyg4.exe
+C:\Users\Hp\source\repos\SinavHazirlik\uyg4\obj\Debug\uyg4.pdb

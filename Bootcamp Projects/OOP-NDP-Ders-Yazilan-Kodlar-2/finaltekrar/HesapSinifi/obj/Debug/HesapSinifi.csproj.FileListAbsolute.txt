@@ -1,0 +1,6 @@
+C:\Users\Hp\source\repos\finaltekrar\HesapSinifi\bin\Debug\HesapSinifi.exe.config
+C:\Users\Hp\source\repos\finaltekrar\HesapSinifi\bin\Debug\HesapSinifi.exe
+C:\Users\Hp\source\repos\finaltekrar\HesapSinifi\bin\Debug\HesapSinifi.pdb
+C:\Users\Hp\source\repos\finaltekrar\HesapSinifi\obj\Debug\HesapSinifi.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\finaltekrar\HesapSinifi\obj\Debug\HesapSinifi.exe
+C:\Users\Hp\source\repos\finaltekrar\HesapSinifi\obj\Debug\HesapSinifi.pdb

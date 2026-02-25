@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\22_12_21\_UDE\bin\Debug\_UDE.exe.config
+C:\Users\Hp\source\repos\22_12_21\_UDE\bin\Debug\_UDE.exe
+C:\Users\Hp\source\repos\22_12_21\_UDE\bin\Debug\_UDE.pdb
+C:\Users\Hp\source\repos\22_12_21\_UDE\obj\Debug\_UDE.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\22_12_21\_UDE\obj\Debug\_UDE.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\22_12_21\_UDE\obj\Debug\_UDE.exe
+C:\Users\Hp\source\repos\22_12_21\_UDE\obj\Debug\_UDE.pdb

@@ -1,0 +1,6 @@
+C:\Users\Hp\source\repos\ListelerOrnekler\ListelerOrnekler\bin\Debug\ListelerOrnekler.exe.config
+C:\Users\Hp\source\repos\ListelerOrnekler\ListelerOrnekler\bin\Debug\ListelerOrnekler.exe
+C:\Users\Hp\source\repos\ListelerOrnekler\ListelerOrnekler\bin\Debug\ListelerOrnekler.pdb
+C:\Users\Hp\source\repos\ListelerOrnekler\ListelerOrnekler\obj\Debug\ListelerOrnekler.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\ListelerOrnekler\ListelerOrnekler\obj\Debug\ListelerOrnekler.exe
+C:\Users\Hp\source\repos\ListelerOrnekler\ListelerOrnekler\obj\Debug\ListelerOrnekler.pdb

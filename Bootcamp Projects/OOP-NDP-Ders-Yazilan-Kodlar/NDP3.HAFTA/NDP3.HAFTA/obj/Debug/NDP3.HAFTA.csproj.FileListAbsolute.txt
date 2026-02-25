@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\NDP3.HAFTA\NDP3.HAFTA\obj\Debug\NDP3.HAFTA.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\NDP3.HAFTA\NDP3.HAFTA\obj\Debug\NDP3.HAFTA.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\NDP3.HAFTA\NDP3.HAFTA\bin\Debug\NDP3.HAFTA.exe.config
+C:\Users\Hp\source\repos\NDP3.HAFTA\NDP3.HAFTA\bin\Debug\NDP3.HAFTA.exe
+C:\Users\Hp\source\repos\NDP3.HAFTA\NDP3.HAFTA\bin\Debug\NDP3.HAFTA.pdb
+C:\Users\Hp\source\repos\NDP3.HAFTA\NDP3.HAFTA\obj\Debug\NDP3.HAFTA.exe
+C:\Users\Hp\source\repos\NDP3.HAFTA\NDP3.HAFTA\obj\Debug\NDP3.HAFTA.pdb

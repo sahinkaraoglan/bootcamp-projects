@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\Tekrarlar1\Dizin.Dosya.Olusturma\bin\Debug\Dizin.Dosya.Olusturma.exe.config
+C:\Users\Hp\source\repos\Tekrarlar1\Dizin.Dosya.Olusturma\bin\Debug\Dizin.Dosya.Olusturma.exe
+C:\Users\Hp\source\repos\Tekrarlar1\Dizin.Dosya.Olusturma\bin\Debug\Dizin.Dosya.Olusturma.pdb
+C:\Users\Hp\source\repos\Tekrarlar1\Dizin.Dosya.Olusturma\obj\Debug\Temelislemler.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\Tekrarlar1\Dizin.Dosya.Olusturma\obj\Debug\Temelislemler.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Tekrarlar1\Dizin.Dosya.Olusturma\obj\Debug\Dizin.Dosya.Olusturma.exe
+C:\Users\Hp\source\repos\Tekrarlar1\Dizin.Dosya.Olusturma\obj\Debug\Dizin.Dosya.Olusturma.pdb

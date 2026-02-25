@@ -1,0 +1,6 @@
+C:\Users\Hp\source\repos\SinavHazirlik\uyg5\bin\Debug\uyg5.exe.config
+C:\Users\Hp\source\repos\SinavHazirlik\uyg5\bin\Debug\uyg5.exe
+C:\Users\Hp\source\repos\SinavHazirlik\uyg5\bin\Debug\uyg5.pdb
+C:\Users\Hp\source\repos\SinavHazirlik\uyg5\obj\Debug\uyg5.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\SinavHazirlik\uyg5\obj\Debug\uyg5.exe
+C:\Users\Hp\source\repos\SinavHazirlik\uyg5\obj\Debug\uyg5.pdb

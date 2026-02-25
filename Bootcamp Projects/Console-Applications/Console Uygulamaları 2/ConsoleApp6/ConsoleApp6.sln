@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp6", "ConsoleApp6\ConsoleApp6.csproj", "{97BED263-6D9A-47C0-B0F1-AC79BF6E2781}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "orneksoru", "orneksoru\orneksoru.csproj", "{5EC8839F-4D67-4CA9-9A92-0051E5AF7053}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97BED263-6D9A-47C0-B0F1-AC79BF6E2781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97BED263-6D9A-47C0-B0F1-AC79BF6E2781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97BED263-6D9A-47C0-B0F1-AC79BF6E2781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97BED263-6D9A-47C0-B0F1-AC79BF6E2781}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EC8839F-4D67-4CA9-9A92-0051E5AF7053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EC8839F-4D67-4CA9-9A92-0051E5AF7053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EC8839F-4D67-4CA9-9A92-0051E5AF7053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EC8839F-4D67-4CA9-9A92-0051E5AF7053}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68D242BF-2215-4D10-AD0B-D953E1ED319D}
+	EndGlobalSection
+EndGlobal

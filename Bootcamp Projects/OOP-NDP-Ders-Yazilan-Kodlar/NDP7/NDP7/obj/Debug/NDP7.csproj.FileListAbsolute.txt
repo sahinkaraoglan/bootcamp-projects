@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\NDP7\NDP7\bin\Debug\NDP7.exe.config
+C:\Users\Hp\source\repos\NDP7\NDP7\bin\Debug\NDP7.exe
+C:\Users\Hp\source\repos\NDP7\NDP7\bin\Debug\NDP7.pdb
+C:\Users\Hp\source\repos\NDP7\NDP7\obj\Debug\NDP7.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\NDP7\NDP7\obj\Debug\NDP7.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\NDP7\NDP7\obj\Debug\NDP7.exe
+C:\Users\Hp\source\repos\NDP7\NDP7\obj\Debug\NDP7.pdb

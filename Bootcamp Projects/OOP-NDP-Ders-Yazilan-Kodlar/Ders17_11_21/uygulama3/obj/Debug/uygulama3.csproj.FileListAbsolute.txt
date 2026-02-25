@@ -1,0 +1,6 @@
+C:\Users\Hp\source\repos\Ders17_11_21\uygulama3\bin\Debug\uygulama3.exe.config
+C:\Users\Hp\source\repos\Ders17_11_21\uygulama3\bin\Debug\uygulama3.exe
+C:\Users\Hp\source\repos\Ders17_11_21\uygulama3\bin\Debug\uygulama3.pdb
+C:\Users\Hp\source\repos\Ders17_11_21\uygulama3\obj\Debug\uygulama3.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Ders17_11_21\uygulama3\obj\Debug\uygulama3.exe
+C:\Users\Hp\source\repos\Ders17_11_21\uygulama3\obj\Debug\uygulama3.pdb

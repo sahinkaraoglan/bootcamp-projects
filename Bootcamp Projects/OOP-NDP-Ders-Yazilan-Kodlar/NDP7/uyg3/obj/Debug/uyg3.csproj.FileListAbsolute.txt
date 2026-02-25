@@ -1,0 +1,6 @@
+C:\Users\Hp\source\repos\NDP7\uyg3\bin\Debug\uyg3.exe.config
+C:\Users\Hp\source\repos\NDP7\uyg3\bin\Debug\uyg3.exe
+C:\Users\Hp\source\repos\NDP7\uyg3\bin\Debug\uyg3.pdb
+C:\Users\Hp\source\repos\NDP7\uyg3\obj\Debug\uyg3.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\NDP7\uyg3\obj\Debug\uyg3.exe
+C:\Users\Hp\source\repos\NDP7\uyg3\obj\Debug\uyg3.pdb

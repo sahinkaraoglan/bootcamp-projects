@@ -1,0 +1,2 @@
+C:\Users\Hp\source\repos\finaltekrar\sahissinifi\obj\Debug\sahissinifi.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\finaltekrar\sahissinifi\obj\Debug\sahissinifi.csproj.CoreCompileInputs.cache

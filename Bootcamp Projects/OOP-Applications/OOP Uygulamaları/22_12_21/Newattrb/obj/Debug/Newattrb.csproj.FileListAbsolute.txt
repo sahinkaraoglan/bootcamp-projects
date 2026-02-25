@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\22_12_21\Newattrb\bin\Debug\Newattrb.exe.config
+C:\Users\Hp\source\repos\22_12_21\Newattrb\bin\Debug\Newattrb.exe
+C:\Users\Hp\source\repos\22_12_21\Newattrb\bin\Debug\Newattrb.pdb
+C:\Users\Hp\source\repos\22_12_21\Newattrb\obj\Debug\Newattrb.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\22_12_21\Newattrb\obj\Debug\Newattrb.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\22_12_21\Newattrb\obj\Debug\Newattrb.exe
+C:\Users\Hp\source\repos\22_12_21\Newattrb\obj\Debug\Newattrb.pdb

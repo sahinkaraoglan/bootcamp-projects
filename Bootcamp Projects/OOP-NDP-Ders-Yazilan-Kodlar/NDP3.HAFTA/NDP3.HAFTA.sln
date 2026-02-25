@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NDP3.HAFTA", "NDP3.HAFTA\NDP3.HAFTA.csproj", "{110E8EC1-151E-4958-8330-91C9DD7D3A03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "refandout", "refandout\refandout.csproj", "{16CD5406-9760-4F62-AA95-2DB3A8C66B66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{110E8EC1-151E-4958-8330-91C9DD7D3A03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{110E8EC1-151E-4958-8330-91C9DD7D3A03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{110E8EC1-151E-4958-8330-91C9DD7D3A03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{110E8EC1-151E-4958-8330-91C9DD7D3A03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16CD5406-9760-4F62-AA95-2DB3A8C66B66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16CD5406-9760-4F62-AA95-2DB3A8C66B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16CD5406-9760-4F62-AA95-2DB3A8C66B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16CD5406-9760-4F62-AA95-2DB3A8C66B66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50A4D3CE-F724-43F1-A24D-C0AD7F14AE95}
+	EndGlobalSection
+EndGlobal

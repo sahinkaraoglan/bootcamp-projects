@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\22_11_21\KliimOrnek\bin\Debug\KliimOrnek.exe.config
+C:\Users\Hp\source\repos\22_11_21\KliimOrnek\bin\Debug\KliimOrnek.exe
+C:\Users\Hp\source\repos\22_11_21\KliimOrnek\bin\Debug\KliimOrnek.pdb
+C:\Users\Hp\source\repos\22_11_21\KliimOrnek\obj\Debug\KalitimOrnek.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\22_11_21\KliimOrnek\obj\Debug\KalitimOrnek.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\22_11_21\KliimOrnek\obj\Debug\KliimOrnek.exe
+C:\Users\Hp\source\repos\22_11_21\KliimOrnek\obj\Debug\KliimOrnek.pdb

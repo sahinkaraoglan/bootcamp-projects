@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\29_12_21\uyg_4\bin\Debug\uyg_4.exe.config
+C:\Users\Hp\source\repos\29_12_21\uyg_4\bin\Debug\uyg_4.exe
+C:\Users\Hp\source\repos\29_12_21\uyg_4\bin\Debug\uyg_4.pdb
+C:\Users\Hp\source\repos\29_12_21\uyg_4\obj\Debug\uyg_4.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\29_12_21\uyg_4\obj\Debug\uyg_4.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\29_12_21\uyg_4\obj\Debug\uyg_4.exe
+C:\Users\Hp\source\repos\29_12_21\uyg_4\obj\Debug\uyg_4.pdb

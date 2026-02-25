@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\Fonksiyonlar\Fonksiyonlar\bin\Debug\Fonksiyonlar.exe.config
+C:\Users\Hp\source\repos\Fonksiyonlar\Fonksiyonlar\bin\Debug\Fonksiyonlar.exe
+C:\Users\Hp\source\repos\Fonksiyonlar\Fonksiyonlar\bin\Debug\Fonksiyonlar.pdb
+C:\Users\Hp\source\repos\Fonksiyonlar\Fonksiyonlar\obj\Debug\Fonksiyonlar.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\Fonksiyonlar\Fonksiyonlar\obj\Debug\Fonksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Fonksiyonlar\Fonksiyonlar\obj\Debug\Fonksiyonlar.exe
+C:\Users\Hp\source\repos\Fonksiyonlar\Fonksiyonlar\obj\Debug\Fonksiyonlar.pdb

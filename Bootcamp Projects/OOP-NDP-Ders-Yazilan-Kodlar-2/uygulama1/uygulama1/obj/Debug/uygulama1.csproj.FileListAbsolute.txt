@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\uygulama1\uygulama1\obj\Debug\uygulama1.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\uygulama1\uygulama1\obj\Debug\uygulama1.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\uygulama1\uygulama1\bin\Debug\uygulama1.exe.config
+C:\Users\Hp\source\repos\uygulama1\uygulama1\bin\Debug\uygulama1.exe
+C:\Users\Hp\source\repos\uygulama1\uygulama1\bin\Debug\uygulama1.pdb
+C:\Users\Hp\source\repos\uygulama1\uygulama1\obj\Debug\uygulama1.exe
+C:\Users\Hp\source\repos\uygulama1\uygulama1\obj\Debug\uygulama1.pdb

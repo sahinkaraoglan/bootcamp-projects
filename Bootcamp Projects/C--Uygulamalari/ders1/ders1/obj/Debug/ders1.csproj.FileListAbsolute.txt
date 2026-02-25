@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\ders1\ders1\bin\Debug\ders1.exe.config
+C:\Users\Hp\source\repos\ders1\ders1\bin\Debug\ders1.exe
+C:\Users\Hp\source\repos\ders1\ders1\bin\Debug\ders1.pdb
+C:\Users\Hp\source\repos\ders1\ders1\obj\Debug\ders1.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\ders1\ders1\obj\Debug\ders1.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\ders1\ders1\obj\Debug\ders1.exe
+C:\Users\Hp\source\repos\ders1\ders1\obj\Debug\ders1.pdb

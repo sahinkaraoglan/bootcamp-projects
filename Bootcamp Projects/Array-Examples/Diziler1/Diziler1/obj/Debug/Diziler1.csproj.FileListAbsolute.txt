@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\Diziler1\Diziler1\bin\Debug\Diziler1.exe.config
+C:\Users\Hp\source\repos\Diziler1\Diziler1\bin\Debug\Diziler1.exe
+C:\Users\Hp\source\repos\Diziler1\Diziler1\bin\Debug\Diziler1.pdb
+C:\Users\Hp\source\repos\Diziler1\Diziler1\obj\Debug\Diziler1.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Diziler1\Diziler1\obj\Debug\Diziler1.exe
+C:\Users\Hp\source\repos\Diziler1\Diziler1\obj\Debug\Diziler1.pdb
+C:\Users\Hp\source\repos\Diziler1\Diziler1\obj\Debug\Diziler1.csproj.AssemblyReference.cache

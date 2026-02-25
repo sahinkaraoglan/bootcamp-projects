@@ -1,0 +1,6 @@
+C:\Users\Hp\source\repos\22_12_21\_Attrb\bin\Debug\_Attrb.exe.config
+C:\Users\Hp\source\repos\22_12_21\_Attrb\bin\Debug\_Attrb.exe
+C:\Users\Hp\source\repos\22_12_21\_Attrb\bin\Debug\_Attrb.pdb
+C:\Users\Hp\source\repos\22_12_21\_Attrb\obj\Debug\_Attrb.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\22_12_21\_Attrb\obj\Debug\_Attrb.exe
+C:\Users\Hp\source\repos\22_12_21\_Attrb\obj\Debug\_Attrb.pdb

@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\Tekrarlar1\Tekrarlar1\bin\Debug\Tekrarlar1.exe.config
+C:\Users\Hp\source\repos\Tekrarlar1\Tekrarlar1\bin\Debug\Tekrarlar1.exe
+C:\Users\Hp\source\repos\Tekrarlar1\Tekrarlar1\bin\Debug\Tekrarlar1.pdb
+C:\Users\Hp\source\repos\Tekrarlar1\Tekrarlar1\obj\Debug\Tekrarlar1.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\Tekrarlar1\Tekrarlar1\obj\Debug\Tekrarlar1.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Tekrarlar1\Tekrarlar1\obj\Debug\Tekrarlar1.exe
+C:\Users\Hp\source\repos\Tekrarlar1\Tekrarlar1\obj\Debug\Tekrarlar1.pdb

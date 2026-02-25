@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp4", "ConsoleApp4\ConsoleApp4.csproj", "{844A7AAA-B781-4DF9-9F44-03978F60EDBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "temelislemler", "temelislemler\temelislemler.csproj", "{1DFAB948-266E-4030-82A3-EA573B4AA0F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{844A7AAA-B781-4DF9-9F44-03978F60EDBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{844A7AAA-B781-4DF9-9F44-03978F60EDBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{844A7AAA-B781-4DF9-9F44-03978F60EDBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{844A7AAA-B781-4DF9-9F44-03978F60EDBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DFAB948-266E-4030-82A3-EA573B4AA0F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DFAB948-266E-4030-82A3-EA573B4AA0F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DFAB948-266E-4030-82A3-EA573B4AA0F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DFAB948-266E-4030-82A3-EA573B4AA0F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99A0787B-8FCF-4587-92D0-276E400BB95D}
+	EndGlobalSection
+EndGlobal

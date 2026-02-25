@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\ConsoleApp6\orneksoru\bin\Debug\orneksoru.exe.config
+C:\Users\Hp\source\repos\ConsoleApp6\orneksoru\bin\Debug\orneksoru.exe
+C:\Users\Hp\source\repos\ConsoleApp6\orneksoru\bin\Debug\orneksoru.pdb
+C:\Users\Hp\source\repos\ConsoleApp6\orneksoru\obj\Debug\orneksoru.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\ConsoleApp6\orneksoru\obj\Debug\orneksoru.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\ConsoleApp6\orneksoru\obj\Debug\orneksoru.exe
+C:\Users\Hp\source\repos\ConsoleApp6\orneksoru\obj\Debug\orneksoru.pdb

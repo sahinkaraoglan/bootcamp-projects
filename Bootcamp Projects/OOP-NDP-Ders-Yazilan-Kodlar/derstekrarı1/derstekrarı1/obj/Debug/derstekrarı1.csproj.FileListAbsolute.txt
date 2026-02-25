@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\derstekrarı1\derstekrarı1\bin\Debug\derstekrarı1.exe.config
+C:\Users\Hp\source\repos\derstekrarı1\derstekrarı1\bin\Debug\derstekrarı1.exe
+C:\Users\Hp\source\repos\derstekrarı1\derstekrarı1\bin\Debug\derstekrarı1.pdb
+C:\Users\Hp\source\repos\derstekrarı1\derstekrarı1\obj\Debug\derstekrarı1.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\derstekrarı1\derstekrarı1\obj\Debug\derstekrarı1.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\derstekrarı1\derstekrarı1\obj\Debug\derstekrarı1.exe
+C:\Users\Hp\source\repos\derstekrarı1\derstekrarı1\obj\Debug\derstekrarı1.pdb

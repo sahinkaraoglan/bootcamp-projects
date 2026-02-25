@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\NDPODEV\NDPODEV\bin\Debug\NDPODEV.exe.config
+C:\Users\Hp\source\repos\NDPODEV\NDPODEV\bin\Debug\NDPODEV.exe
+C:\Users\Hp\source\repos\NDPODEV\NDPODEV\bin\Debug\NDPODEV.pdb
+C:\Users\Hp\source\repos\NDPODEV\NDPODEV\obj\Debug\NDPODEV.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\NDPODEV\NDPODEV\obj\Debug\NDPODEV.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\NDPODEV\NDPODEV\obj\Debug\NDPODEV.exe
+C:\Users\Hp\source\repos\NDPODEV\NDPODEV\obj\Debug\NDPODEV.pdb

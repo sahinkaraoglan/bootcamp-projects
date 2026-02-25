@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\odev\odev\bin\Debug\odev.exe.config
+C:\Users\Hp\source\repos\odev\odev\bin\Debug\odev.exe
+C:\Users\Hp\source\repos\odev\odev\bin\Debug\odev.pdb
+C:\Users\Hp\source\repos\odev\odev\obj\Debug\odev.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\odev\odev\obj\Debug\odev.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\odev\odev\obj\Debug\odev.exe
+C:\Users\Hp\source\repos\odev\odev\obj\Debug\odev.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorOverloading", "ConstructorOverloading\ConstructorOverloading.csproj", "{350A49DA-08AD-4FB1-8174-EDA6FCFDAE83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KalitimOrnek1", "KalitimOrnek1\KalitimOrnek1.csproj", "{8AA23F47-4082-4699-8185-36324CC7D9AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{350A49DA-08AD-4FB1-8174-EDA6FCFDAE83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{350A49DA-08AD-4FB1-8174-EDA6FCFDAE83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{350A49DA-08AD-4FB1-8174-EDA6FCFDAE83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{350A49DA-08AD-4FB1-8174-EDA6FCFDAE83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AA23F47-4082-4699-8185-36324CC7D9AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AA23F47-4082-4699-8185-36324CC7D9AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AA23F47-4082-4699-8185-36324CC7D9AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AA23F47-4082-4699-8185-36324CC7D9AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE9E1385-9E99-4D25-95C1-7CAFC954D588}
+	EndGlobalSection
+EndGlobal

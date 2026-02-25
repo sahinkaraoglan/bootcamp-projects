@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\SinavHazirlik\SinavHazirlik\bin\Debug\SinavHazirlik.exe.config
+C:\Users\Hp\source\repos\SinavHazirlik\SinavHazirlik\bin\Debug\SinavHazirlik.exe
+C:\Users\Hp\source\repos\SinavHazirlik\SinavHazirlik\bin\Debug\SinavHazirlik.pdb
+C:\Users\Hp\source\repos\SinavHazirlik\SinavHazirlik\obj\Debug\SinavHazirlik.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\SinavHazirlik\SinavHazirlik\obj\Debug\SinavHazirlik.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\SinavHazirlik\SinavHazirlik\obj\Debug\SinavHazirlik.exe
+C:\Users\Hp\source\repos\SinavHazirlik\SinavHazirlik\obj\Debug\SinavHazirlik.pdb

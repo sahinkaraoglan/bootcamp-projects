@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\derstekrarı1\StaticHariciKavramları\bin\Debug\StaticHariciKavramları.exe.config
+C:\Users\Hp\source\repos\derstekrarı1\StaticHariciKavramları\bin\Debug\StaticHariciKavramları.exe
+C:\Users\Hp\source\repos\derstekrarı1\StaticHariciKavramları\bin\Debug\StaticHariciKavramları.pdb
+C:\Users\Hp\source\repos\derstekrarı1\StaticHariciKavramları\obj\Debug\StaticHariciKavramları.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\derstekrarı1\StaticHariciKavramları\obj\Debug\StaticHariciKavramları.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\derstekrarı1\StaticHariciKavramları\obj\Debug\StaticHariciKavramları.exe
+C:\Users\Hp\source\repos\derstekrarı1\StaticHariciKavramları\obj\Debug\StaticHariciKavramları.pdb

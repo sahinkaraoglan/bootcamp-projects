@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\Tekrarlar1\Temelislemler3\bin\Debug\Temelislemler3.exe.config
+C:\Users\Hp\source\repos\Tekrarlar1\Temelislemler3\bin\Debug\Temelislemler3.exe
+C:\Users\Hp\source\repos\Tekrarlar1\Temelislemler3\bin\Debug\Temelislemler3.pdb
+C:\Users\Hp\source\repos\Tekrarlar1\Temelislemler3\obj\Debug\Temelislemler3.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\Tekrarlar1\Temelislemler3\obj\Debug\Temelislemler3.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Tekrarlar1\Temelislemler3\obj\Debug\Temelislemler3.exe
+C:\Users\Hp\source\repos\Tekrarlar1\Temelislemler3\obj\Debug\Temelislemler3.pdb

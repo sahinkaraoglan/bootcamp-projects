@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\22_11_21\KisiselOperatorTanımlama\bin\Debug\KisiselOperatorTanımlama.exe.config
+C:\Users\Hp\source\repos\22_11_21\KisiselOperatorTanımlama\bin\Debug\KisiselOperatorTanımlama.exe
+C:\Users\Hp\source\repos\22_11_21\KisiselOperatorTanımlama\bin\Debug\KisiselOperatorTanımlama.pdb
+C:\Users\Hp\source\repos\22_11_21\KisiselOperatorTanımlama\obj\Debug\KisiselOperatorTanımlama.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\22_11_21\KisiselOperatorTanımlama\obj\Debug\KisiselOperatorTanımlama.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\22_11_21\KisiselOperatorTanımlama\obj\Debug\KisiselOperatorTanımlama.exe
+C:\Users\Hp\source\repos\22_11_21\KisiselOperatorTanımlama\obj\Debug\KisiselOperatorTanımlama.pdb
